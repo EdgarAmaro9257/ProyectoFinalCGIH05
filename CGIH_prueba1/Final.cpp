@@ -358,8 +358,8 @@ int main()
 	Model setmcs("resources/objects/MesaconSillas/Table_witch_chairs.obj");
 	Model sofa("resources/objects/Sofa/sofa3.obj"); 
 	Model piscina("resources/objects/PiscinaJardin/piscina.obj");
-	Model furniBath("resources/objects/FurnitureBath/furnitureBath.obj");
-	Model furniBath2("resources/objects/FurnitureBath/furnitureBath.obj");
+	//Model furniBath("resources/objects/FurnitureBath/furnitureBath.obj");
+	//Model furniBath2("resources/objects/FurnitureBath/furnitureBath.obj");
 	
 	//Inicialización de KeyFrames
 	/*
@@ -693,13 +693,13 @@ int main()
 		model = glm::scale(model, glm::vec3(0.05f));
 		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		staticShader.setMat4("model", model);
-		furniBath.Draw(staticShader);
+		//furniBath.Draw(staticShader);
 		
 		model = glm::translate(glm::mat4(1.0f), glm::vec3(-0.9f, 2.5f, -84.0f));
 		model = glm::scale(model, glm::vec3(0.05f));
 		model = glm::rotate(model, glm::radians(270.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		staticShader.setMat4("model", model);
-		furniBath2.Draw(staticShader);
+		//furniBath2.Draw(staticShader);
 		
 		//Piscina con jardin
 		model = glm::translate(glm::mat4(1.0f), glm::vec3(-7.0f, 0.0f, -126.0f));
