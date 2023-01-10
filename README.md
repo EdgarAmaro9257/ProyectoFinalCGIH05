@@ -27,3 +27,13 @@ Descargar el proyecto desde GitHub dando click al boton verde "Code" y seleccion
 <div align="Center">
     <img src="ImagenesEvidencia/EvidenciaPF_1.jpg" alt="Descarga GitHub 1" ></img>
 <div align="justify">
+ 
+Si selecciona "Open with GitHub Desktop" requiere tener esta aplicación instalada en su equipo y seguir los pasos para clonar el repositorio de manera local, una vez 
+clonado saltar hasta ["Ejecución el archivo .exe"](#item1).
+
+La selección "Download ZIP" descargará un archivo .zip del proyecto, habrá que descomprimirlo en su equipo, regresar a este manual y saltarse hasta ["Ejecución el archivo .exe"](#item1).
+
+ ### ***Ejecución con Visual Studio*** 
+ 
+ Si se desea y tiene instalado el IDE Visual Studio puede ejecutar la aplicación siguiendo los siguientes pasos.
+ Tener descargado el proyecto de git-hub y haber descomprimdo la carpeta zip. Una vez teniendo esto abrir Visual Studio y seleccionar la opción "Abrir un proyecto o una solución"
