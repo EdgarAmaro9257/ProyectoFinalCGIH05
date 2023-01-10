@@ -58,3 +58,9 @@ CGIH_prueba1/resources/objects/FurnitureBath
  
 Buscar el archivo "CGIH_prueba1.sln" dentro de la carpeta descomprimida y dar en el botón de abrir. 
 
+
+
+
+
+Antes de ejectutar el programa comprobamos que todas las bibliotecas y configuraciones esten cargadas correctamente. Nos dirigimos al explorador de soluciones, hacemos click derecho en el nombre del proyecto y seleccionamos la opción de propiedades.
+
