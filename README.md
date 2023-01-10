@@ -93,14 +93,15 @@ Si ya se encuentran todas las dependencias, presionar "Aceptar"
 
 Para poner en ejecución el proyecto se debe seleccionar la opción "x64" en la barra superior y verificar que esté seleccionada la opción "Debug" como se muestra en la siguiente imagen.
  
- 
- 
- 
- 
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_11.jpg" alt="Verificando opcion" ></img>
+<div align="justify"> 
  
 Ya puede ejecutarse el proyecto dando click en el boton "Depurador local de Windows", esto abrirá la ventana del programa. 
  
- 
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_12.jpg" alt="Depurando proyecto" ></img>
+<div align="justify"> 
  
  
  
