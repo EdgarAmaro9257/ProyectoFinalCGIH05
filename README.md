@@ -37,3 +37,10 @@ La selección "Download ZIP" descargará un archivo .zip del proyecto, habrá qu
  
  Si se desea y tiene instalado el IDE Visual Studio puede ejecutar la aplicación siguiendo los siguientes pasos.
  Tener descargado el proyecto de git-hub y haber descomprimdo la carpeta zip. Una vez teniendo esto abrir Visual Studio y seleccionar la opción "Abrir un proyecto o una solución"
+ 
+  <div align="Center">
+  <img src="ImagenesEvidencia/ EvidenciaPF_2.jpg" alt="Abrir proyecto"></img>
+<div align="justify">
+ 
+ 
+
