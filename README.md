@@ -153,6 +153,16 @@ Sala
 <div align="Center">
     <img src="ImagenesEvidencia/EvidenciaPF_21.jpg" alt="Vista del ejecutable 7" ></img>
 <div align="justify">
+ 
+Cocina
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_22.jpg" alt="Vista del ejecutable 8" ></img>
+<div align="justify"> 
+ 
+Piscina con jardín
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_23.jpg" alt="Vista del ejecutable 8" ></img>
+<div align="justify"> 
 
 
 
