@@ -36,9 +36,15 @@ La selección "Download ZIP" descargará un archivo .zip del proyecto, habrá qu
 Una vez descargado y descomprimido el proyecto en su equipo, deberá descomprimir 3 archivos importantes en su equipo debido a que en el repositorio está limitada la cantidad de alamcenamiento de datos. Las siguientes rutas en donde descomprimirá estos archivos con las siguientes:
 
 CGIH_prueba1/lib
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_3.jpg" alt="Descomprimir archivos faltantes 1" ></img>
+<div align="justify">
+ 
 
 CGIH_prueba1/resources/objects/FurnitureBath
-
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_4.jpg" alt="Descomprimir archivos faltantes 2" ></img>
+<div align="justify">
 
 
  ### ***Ejecución con Visual Studio*** 
@@ -50,5 +56,5 @@ CGIH_prueba1/resources/objects/FurnitureBath
   <img src="ImagenesEvidencia/EvidenciaPF_2.jpg" alt="Abrir proyecto"></img>
 <div align="justify">
  
- 
+Buscar el archivo "CGIH_prueba1.sln" dentro de la carpeta descomprimida y dar en el botón de abrir. 
 
