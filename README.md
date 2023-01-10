@@ -182,23 +182,28 @@ Piscina con jardín
     <img src="ImagenesEvidencia/EvidenciaPF_24.jpg" alt="Vista del ejecutable 8" ></img>
 <div align="justify"> 
  
- Personaje Stewie
-*Tecla L: Guardar cuadro
-*Tecla P: Reproducir animación
-*Tecla Y: Mover personaje hacia eje Z positivo (adelante)
-*Tecla H: Mover personaje hacia eje Z negativo (atrás)
-*Tecla J: Mover personaje hacia eje X positivo (izquierda)
-*Tecla G: Mover personaje hacia eje X negativo (derecha)
-*Tecla M: Mover personaje hacia eje Y positivo (arriba)
-*Tecla N: Mover personaje hacia eje Y negativo (abajo)
-*Tecla V: Mover personaje 360 grados hacia la izquierda
-*Tecla B: Mover personaje 360 grados hacia la derecha
-*Tecla 4: Mover ambos brazos hacia arriba
-*Tecla 3: Mover ambos brazos hacia abajo
-*Tecla 5: Mover ambas piernas hacia la derecha
-*Tecla 6: Mover ambas piernas hacia la izquierda
-*Tecla 7: Mover cabeza hacia la derecha
-*Tecla 8: Mover cabeza hacia la izquierda
+ 
+* ***Personaje Stewie***:
+    *"Tecla L": Guardar cuadro
+    *Tecla P: Reproducir animación
+    *Tecla Y: Mover personaje hacia eje Z positivo (adelante)
+    
+    *Tecla H: Mover personaje hacia eje Z negativo (atrás)
+    *Tecla J: Mover personaje hacia eje X positivo (izquierda)
+    *Tecla G: Mover personaje hacia eje X negativo (derecha)
+ 
+    *Tecla M: Mover personaje hacia eje Y positivo (arriba)
+    *Tecla N: Mover personaje hacia eje Y negativo (abajo)
+    *Tecla V: Mover personaje 360 grados hacia la izquierda
+ 
+    *Tecla B: Mover personaje 360 grados hacia la derecha
+    *Tecla 4: Mover ambos brazos hacia arriba
+    *Tecla 3: Mover ambos brazos hacia abajo
+ 
+   *Tecla 5: Mover ambas piernas hacia la derecha
+   *Tecla 6: Mover ambas piernas hacia la izquierda
+   *Tecla 7: Mover cabeza hacia la derecha
+   *Tecla 8: Mover cabeza hacia la izquierda
 
 Para llevar a cabo la animación se hace lo siguiente:
 1.	En la posición original que se encuentra el personaje presionar la tecla L para guardar dicha posición. Si no se realiza esta acción no se podrá reproducir ninguna animación.
@@ -210,7 +215,6 @@ Para llevar a cabo la animación se hace lo siguiente:
  <div align="Center">
     <img src="ImagenesEvidencia/EvidenciaPF_25.jpg" alt="Vista del ejecutable 8" ></img>
 <div align="justify"> 
- 
  
  * **Movimientos del mouse**:
     * El deslizamiento del mouse 🔁 a la izquierda o derecha, arriba o abajo realiza el giro de la cámara 📷 en dicha dirección de deslizado, el field of view 🔍 se mueve como sucede con el cursor de la computadora.
