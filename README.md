@@ -181,3 +181,13 @@ Piscina con jardín
  <div align="Center">
     <img src="ImagenesEvidencia/EvidenciaPF_24.jpg" alt="Vista del ejecutable 8" ></img>
 <div align="justify"> 
+ 
+ 
+ 
+ 
+ 
+ * **Movimientos del mouse**:
+    * El deslizamiento del mouse 🔁 a la izquierda o derecha, arriba o abajo realiza el giro de la cámara 📷 en dicha dirección de deslizado, el field of view 🔍 se mueve como sucede con el cursor de la computadora.
+    * Scroll del mouse reliza zoom + 🔍 moviéndolo hacia enfrente y zoom - 🔍 hacia atrás.
+ 
+ 
