@@ -103,6 +103,9 @@ Ya puede ejecutarse el proyecto dando click en el boton "Depurador local de Wind
     <img src="ImagenesEvidencia/EvidenciaPF_12.jpg" alt="Depurando proyecto" ></img>
 <div align="justify"> 
  
+### ***Ejecución con archivo .exe***
+ 
+Una vez clonado el proyecto o descomprimido el ZIP: abrir la carpeta generada o ubicación del repositorio en su equipo y dirigirse a "\ProyectoFinalCGIH05\Ejecutable", descomprimir el archivo "CGIH_prueba1.pdb", ubicar el archivo "CGIH_prueba1.exe" y dar doble click para abrir. Lo anterior abrirá una ventana con el espacio virtual ejecutandose.
  
  
  
