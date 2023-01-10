@@ -59,10 +59,13 @@ CGIH_prueba1/resources/objects/FurnitureBath
 Buscar el archivo "CGIH_prueba1.sln" dentro de la carpeta descomprimida y dar en el botón de abrir. 
 
 <div align="Center">
-    <img src="ImagenesEvidencia/EvidenciaPF_5.jpg" alt="Descomprimir archivos faltantes 2" ></img>
+    <img src="ImagenesEvidencia/EvidenciaPF_5.jpg" alt="Abrir solución" ></img>
 <div align="justify">
 
 Antes de ejectutar el programa comprobamos que todas las bibliotecas y configuraciones esten cargadas correctamente. Nos dirigimos al explorador de soluciones, hacemos click derecho en el nombre del proyecto y seleccionamos la opción de propiedades.
 
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_6.jpg" alt="Propiedades de solución" ></img>
+<div align="justify">
 
-
+En el apartado de "General" verificamos que el Conjunto de herramienras de la plataforma sea uno que tengamos descargado puede ser v142 o v143.
