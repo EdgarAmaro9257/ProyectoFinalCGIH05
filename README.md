@@ -24,3 +24,6 @@
 ### **Apertura y ejecución del proyecto**
 
 Descargar el proyecto desde GitHub dando click al boton verde "Code" y seleccionando una de las opciones
+<div align="Center">
+    <img src="img/Captura1.JPG" alt="Descarga GitHub 1" ></img>
+<div align="justify">
