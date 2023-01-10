@@ -164,6 +164,19 @@ Piscina con jardín
     <img src="ImagenesEvidencia/EvidenciaPF_23.jpg" alt="Vista del ejecutable 8" ></img>
 <div align="justify"> 
 
+### **Funciones**
+* ***Teclado***:
+    * "Esc" : para salir de la ventana / terminar el programa. ❌
+    
+    Simulación de las teclas de adelante ⬆️, atrás ⬇️, izquierda ⬅️, derecha ➡️ para movimiento como sucede en los videojuegos
+    * "W" : mover la cámara hacia enfrente ⬆️. 
+    * "S" : mover la cámara hacia atrás ⬇️. 
+    * "A" : mover la cámara hacia la izquierda ⬅️.
+    * "D" : mover la cámara hacia la derecha ➡️.
 
+ ### **Animaciones**
 
- 
+ * "SPACE" : activar o desactivar la animacion del vehiculo 🚗.
+ <div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_24.jpg" alt="Vista del ejecutable 8" ></img>
+<div align="justify"> 
