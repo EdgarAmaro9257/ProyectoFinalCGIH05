@@ -117,7 +117,7 @@ Una vez clonado el proyecto o descomprimido el ZIP: abrir la carpeta generada o 
  
 ### ***Interacción con el ambiente*** 
  
- 
+Una vez abierta la ventana; estando dentro del espacio virtual se captura el mouse para funcionar unicamente dentro de este, por lo que no se observa el cursos y el movimiento del mouse solo funciona dentro de la ventana. La interacción se da mediante el teclado y mouse de la computadora.
  
  
  
