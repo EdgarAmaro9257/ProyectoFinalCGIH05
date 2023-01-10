@@ -119,10 +119,41 @@ Una vez clonado el proyecto o descomprimido el ZIP: abrir la carpeta generada o 
  
 Una vez abierta la ventana; estando dentro del espacio virtual se captura el mouse para funcionar unicamente dentro de este, por lo que no se observa el cursos y el movimiento del mouse solo funciona dentro de la ventana. La interacción se da mediante el teclado y mouse de la computadora.
  
+Vista del ejecutable, modelo de la casa con coche lamborghini y personaje Stewie 
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_15.jpg" alt="Vista del ejecutable 1" ></img>
+<div align="justify">  
  
+Dormitorio 1
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_16.jpg" alt="Vista del ejecutable 2" ></img>
+<div align="justify"> 
+
+Dormitorio 2
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_17.jpg" alt="Vista del ejecutable 3" ></img>
+<div align="justify"> 
+
+Dormitorio 3
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_18.jpg" alt="Vista del ejecutable 4" ></img>
+<div align="justify"> 
+
+Baño 1
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_19.jpg" alt="Vista del ejecutable 5" ></img>
+<div align="justify"> 
  
- 
- 
- 
- 
+Baño 2
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_20.jpg" alt="Vista del ejecutable 6" ></img>
+<div align="justify"> 
+
+Sala
+<div align="Center">
+    <img src="ImagenesEvidencia/EvidenciaPF_21.jpg" alt="Vista del ejecutable 7" ></img>
+<div align="justify">
+
+
+
  
